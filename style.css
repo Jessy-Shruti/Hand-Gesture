@@ -1,0 +1,52 @@
+body
+{
+  color: white;
+  background-color: skyblue;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+#prediction1{
+  background-color: white;
+  border-radius: 10px;
+  color: green;
+  padding: 6px;
+  font-size: 14px;
+}
+
+#wb{
+    background-color: white;
+  border-radius: 10px;
+  color: green;
+  padding: 6px;
+  font-size: 14px;
+}
+
+#snp{
+    background-color: white;
+  border-radius: 10px;
+  color:  green;
+  padding: 6px;
+  font-size: 14px;
+}
+
